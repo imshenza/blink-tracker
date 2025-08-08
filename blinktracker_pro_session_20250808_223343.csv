@@ -1,0 +1,2 @@
+timestamp,person_id,total_blinks,session_duration_minutes,blinks_per_minute,longest_no_blink_duration_seconds
+2025-08-08 22:33:43,1,1,2.0736745238304137,0.48223575518150147,112.60677218437195
