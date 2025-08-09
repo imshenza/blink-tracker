@@ -122,7 +122,7 @@ transformers==4.29.2
 typing-extensions==4.6.2
 tzdata==2023.3
 tzlocal==5.0.1
-urllib3==2.0.3
+urllib3==2.3.0
 validators==0.20.0
 virtualenv==20.22.0
 watchdog==3.0.0
